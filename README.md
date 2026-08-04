@@ -19,3 +19,9 @@ The **Task Manager Web Application** is a simple, browser-based tool that helps 
 
 ## 📝 Note
 Tasks are stored in memory using JavaScript while the page is open. Refreshing the page will reset the task list, as no backend or persistent storage was used, per the project requirements.
+
+## ▶️ Steps to Run the Project
+1. Download or clone the project folder to your computer.
+2. Make sure all three files (`index.html`, `style.css`, `script.js`) are in the same folder.
+3. Double-click `index.html`, or open it using any web browser (Chrome, Firefox, Edge, etc.).
+4. The Task Manager will load and is ready to use — no installation or setup required.
